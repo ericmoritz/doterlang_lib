@@ -1,2 +1,6 @@
-deps/
-ebin/
+deps
+ebin
+.eunit
+*.o
+*.beam
+*.plt
